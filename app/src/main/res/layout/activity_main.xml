@@ -144,7 +144,7 @@
                 android:layout_marginTop="20dp"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:text="Dostęp do pliku" />
+                android:text="Access to files" />
 
             <Button
                 android:id="@+id/saveBtn"
