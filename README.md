@@ -1,4 +1,4 @@
-# DoReMi
+# DoReMi - currently working on it
 
 This is an application that allows you to play a simple melody sequence and save it to a file. This project was made with Android Studio IDE as an assignment in class.
 
